@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/ZaxkyyOfficial/react_pertemuan11.git"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Mohamad Zaky Bahtiar Arifianto
         </a>
       </header>
     </div>
